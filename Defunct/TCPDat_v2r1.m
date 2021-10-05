@@ -5,11 +5,11 @@
 % If you use this code or the pre-generated TCPDat data, please include the
 % following citation (or whichever citation style your journal of choice requies):
 
-% Bregy, J.C., J.T. Maxwell, S.M. Robeson, J.T. Ortegren, P.T. Soulé, and
+% Bregy, J.C., J.T. Maxwell, S.M. Robeson, J.T. Ortegren, P.T. SoulÃ©, and
 % P.A. Knapp, 2019: Spatiotemporal variability of tropical cyclone
-% precipitation using a high-resolution, gridded (0.25° x 0.25°) dataset
-% for the eastern United States, 1948–2015. Journal of Climate, 
-% 33(5), 1803–1819, doi:10.1175/JCLI-D-18-0885.1.
+% precipitation using a high-resolution, gridded (0.25Â° x 0.25Â°) dataset
+% for the eastern United States, 1948â€“2015. Journal of Climate, 
+% 33(5), 1803â€“1819, doi:10.1175/JCLI-D-18-0885.1.
 
 % Stable link to the original paper: https://doi.org/10.1175/JCLI-D-18-0885.1
 
