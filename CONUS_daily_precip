@@ -1,1 +1,12 @@
-
+The other dataset required is the Climate Prediction Center Unified
+Guage-Based Analysis of Daily Precipitation over CONUS (CPC US Unified)
+from the Physical Sciences Division of the Earth Systems Research
+Laboratory. The latest version can be found here: 
+https://www.esrl.noaa.gov/psd/thredds/catalog/Datasets/cpc_us_precip/catalog.html
+(Note: the years 2007 onward are located in the RT subfile. CPC started doing something different.
+It's inconvenient, but such is life.) Like IBTrACS, CPC US Unified should be a netCDF. You will have to
+download gridded precipitation for each year that you are interested in.
+The script is written to cover every year starting at 1948 (per CPC US
+Unified). In future iterations, I plan to have query statements that
+allow you to define your time range, but plans always look great on paper.
+Anyway, cite CPC US Unified accordingly.
